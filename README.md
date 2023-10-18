@@ -22,3 +22,5 @@ The `train.py` file also holds the `option()` function which can be used to chan
 
 ## Results :
 ![test](https://github.com/venkydesai/Shadow_removal_via_shadow_decomposition/assets/117113574/467e1120-37a4-43b7-9157-ed3e4c78f3b2)
+
+- Late days used 3.
