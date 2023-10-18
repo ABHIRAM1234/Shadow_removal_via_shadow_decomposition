@@ -1,0 +1,222 @@
+{
+    "os": "Linux-3.10.0-1160.25.1.el7.x86_64-x86_64-with-glibc2.17",
+    "python": "3.11.5",
+    "heartbeatAt": "2023-10-18T03:17:07.962760",
+    "startedAt": "2023-10-18T03:17:04.685630",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/patel.aryam/SID/src/model/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "d1005",
+    "username": "patel.aryam",
+    "executable": "/home/patel.aryam/.conda/envs/model_env/bin/python3",
+    "cpu_count": 36,
+    "cpu_count_logical": 36,
+    "cpu_freq": {
+        "current": 1.032472222222222,
+        "min": 1000.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2.199,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.087,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.072,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.092,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.09,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.006,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 0.999,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1.0,
+            "min": 1000.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 19.521484375,
+            "used": 17.431991577148438
+        }
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 16106127360
+        }
+    ],
+    "memory": {
+        "total": 187.35943603515625
+    }
+}
